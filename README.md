@@ -1,2 +1,5 @@
 # TraumaData
-Python code to build and modify trauma data base
+Python code to build a SQLite database from csv files, set primary keys, and reduce redundancy of text descriptions by replacing text with numerical codes and storing the descriptions and their code in a separate table. 
+
+
+
